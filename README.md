@@ -1,0 +1,2 @@
+# ash
+a bbs template
